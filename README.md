@@ -3,4 +3,4 @@ This repository there is a app dedicated for a specifical chemical tag. We elabo
 
 Initialy we make the app using Mit App Inventor.
 
-Thank's to Pedro Augusto Oliveira for colaboration.
+Thank's to Dr. Pedro Augusto Oliveira for colaboration.
