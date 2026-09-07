@@ -1,5 +1,6 @@
 # Resitag
-This repository there is an app dedicated to draw a specifical chemical tag. We elaborate a simple way to print pdf with tag to put on recipies to indentificate it.
+
+This repository there is an app dedicated to draw a specific chemical tag. We elaborate a simple way to print pdf with tag to put on recipient to identify it.
 
 Initially we does the app using Mit App Inventor.
 
